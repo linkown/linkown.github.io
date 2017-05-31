@@ -412,7 +412,7 @@ table {
       .footer .link li:first-child {
         margin-left: 0; }
       .footer .link li a {
-        color: #ffaa22;
+        color: #ff2222;
         text-decoration: none; }
         .footer .link li a:hover {
           color: #ee662a; }
@@ -420,7 +420,7 @@ table {
           color: #d44d11; }
   .footer .bar {
     height: 8px;
-    background-color: #ffaa22; }
+    background-color: #ff2222; }
 
 @media (max-width: 992px) {
   .feature .content .frame {
